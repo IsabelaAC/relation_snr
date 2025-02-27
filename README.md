@@ -70,8 +70,6 @@ SNR (Relação Sinal-Ruído) mede a relação entre a potência do sinal e a pot
 ## 🚀 Melhorias Futuras
 ✅ Adicionar ruídos submarinos reais além do ruído branco.  
 ✅ Implementar diferentes formas de onda (exemplo: pulsos e onda quadrada).  
-✅ Criar interface gráfica para ajustes dos parâmetros em tempo real.  
-✅ Permitir exportação em outros formatos além de `.wav`.
 
 ---
 
