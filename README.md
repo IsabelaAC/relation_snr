@@ -78,5 +78,5 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para modificar e 
 
 ---
 
-Desenvolvido por [Isabela Assis Cardoso] 🚀
+Desenvolvido por [Isabela Assis Cardoso](https://www.linkedin.com/in/isabelaassiscardoso/) 🚀
 
